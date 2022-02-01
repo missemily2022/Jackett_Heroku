@@ -29,3 +29,7 @@ git push heroku master -f
 - Select *Deploy to Heroku* from the *All workflow* list
 - Click on *Run workflow* -> *Run workflow*
 - After that turn on the app dyno and enjoy the Jackett
+
+<br>
+
+<b><i>Credits : </i></b>[YukkiSenpai](https://t.me/YukkiSenpai)
