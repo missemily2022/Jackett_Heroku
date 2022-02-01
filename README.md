@@ -32,4 +32,4 @@ git push heroku master -f
 
 <br>
 
-<b><i>Credits : </i></b>[YukkiSenpai](https://t.me/YukkiSenpai)
+<b><i>Credits : </i></b>[Levi](https://t.me/l3v11)
