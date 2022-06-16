@@ -9,7 +9,7 @@
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": "__cf_bm=ZACLLAanhUys0rCjEoV1uUNC1GI2Ur2rtv.ZLywlSg4-1637430586-0-ARW1cQMKHRl6XMHWJjix4Sv9hyJr7VGM7k+YKkx24KNIevU71zDABzyGaItB7ndU45SIv2/ljh5eCN6zK9qAm68="
+    "value": "__cf_bm=7DtbHjDdhqVlSPSgqzYGBoPBReZtERk1IX9fRbuCts4-1634107038-0-Aem87LSRCjH88FpHd6DbsG29lzGnzdi2JQA3b0HcWPTC8d4WCGFMxXaXRQR3/KqSCPh8veBdU0QM0YNoAowfwIY="
   },
   {
     "id": "lasterror",
@@ -38,7 +38,7 @@
     "id": "numberofretries",
     "type": "inputselect",
     "name": "Number of retries",
-    "value": "3",
+    "value": "2",
     "options": {
       "0": "No retries (fail fast)",
       "1": "1 retry (0.5s delay)",

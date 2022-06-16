@@ -9,7 +9,7 @@
     "id": "cookieheader",
     "type": "hiddendata",
     "name": "CookieHeader",
-    "value": "PHPSESSID=0dvgvac13bj1vtp04rusa9phsc; fencekey=80aa873d1a0b49cbc31887f04090f816"
+    "value": "PHPSESSID=m77fmkv5rdg3ddudctj5f309qq"
   },
   {
     "id": "lasterror",
@@ -38,6 +38,12 @@
       "desc": "desc",
       "asc": "asc"
     }
+  },
+  {
+    "id": "captchatext",
+    "type": "inputstring",
+    "name": "Captcha Text",
+    "value": null
   },
   {
     "id": "tags",

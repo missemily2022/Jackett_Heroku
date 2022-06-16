@@ -21,7 +21,7 @@
     "id": "enabletitledetailparsing",
     "type": "inputbool",
     "name": "Enable Title Detail Parsing",
-    "value": true
+    "value": false
   },
   {
     "id": "tags",

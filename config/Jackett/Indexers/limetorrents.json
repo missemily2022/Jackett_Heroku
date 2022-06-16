@@ -21,7 +21,7 @@
     "id": "downloadlink",
     "type": "inputselect",
     "name": "Download link",
-    "value": "http://itorrents.org/",
+    "value": "magnet:",
     "options": {
       "http://itorrents.org/": "iTorrents.org",
       "magnet:": "magnet"
@@ -31,7 +31,7 @@
     "id": "downloadlink(fallback)",
     "type": "inputselect",
     "name": "Download link (fallback)",
-    "value": "magnet:",
+    "value": "http://itorrents.org/",
     "options": {
       "http://itorrents.org/": "iTorrents.org",
       "magnet:": "magnet"

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://tt.animedia.tv/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "anime_last_visit=1318746996; anime_last_activity=1634107767; anime_tracker=%7B%220%22%3A%22anime%2Fkogda-plachut-cikady-2020%22%2C%221%22%3A%22anime%2Fmoya-reinkarnaciya-v-otome-igre-v-kachestve-glavnoj-zlodejki%22%2C%222%22%3A%22anime%2Ftokijskie-mstiteli%22%2C%223%22%3A%22anime%2Fre-mejn%22%2C%224%22%3A%22anime%2Fmoya-gerojskaya-akademiya%22%2C%22token%22%3A%22578ee678b0b464761b43e48ed5f8f84202764d69a2778b316e6f602a6a11dc3b68e05cb365cfb01c4b44026fda036040%22%7D; anime_csrf_token=ad46be138f00b3621a0371c568e96b75fb10ccd3; anime_stashid=%7B%22id%22%3A%2233a85c486c3d4313b8820962b2eac189f6d56524%22%2C%22dt%22%3A1634106996%7D"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  },
+  {
+    "id": "tags",
+    "type": "inputtags",
+    "name": "Tags",
+    "value": ""
+  }
+]
